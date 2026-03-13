@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "firstName": "Vanaraj",
+    "lastName": "Khistareeya",
+    "fullName": "Vanaraj Khistareeya",
+    "title": "Engineer",
+    "company": "Zenion Technologies",
+    "tagline": "Engineering the Future, End to End.",
+    "avatarText": "VK"
+  },
+  "images": {
+    "avatar": "./images/profile.jpg",
+    "banner": "./images/banner.jpg"
+  },
+  "contact": {
+    "phoneE164": "+917016049442",
+    "email": "info@zeniontechnologies.com",
+    "website": "https://www.zeniontechnologies.com",
+    "whatsapp": {
+      "phoneE164": "+919638418254",
+      "message": "Hi Vanaraj, I found your digital card!"
+    }
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/vanaraj-khistareeya/"
+  },
+  "share": {
+    "title": "Vanaraj Khistareeya",
+    "text": "Check out Vanaraj Khistareeya's Digital Business Card"
+  },
+  "seo": {
+    "pageTitle": "Vanaraj Khistareeya - Zenion Technologies",
+    "ogTitle": "Vanaraj Khistareeya - Zenion Technologies",
+    "ogDescription": "Digital Business Card - Engineering the Future, End to End.",
+    "appleWebAppTitle": "Zenion Card"
+  }
+}
